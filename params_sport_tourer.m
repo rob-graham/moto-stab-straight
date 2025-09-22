@@ -81,7 +81,7 @@ P.tyre_stiff_align = 16000;           % N*m/rad
 P.c_steer = 6.0;                      % N*m*s/rad
 
 % Suggested analysis speed range (m/s)
-P.speed_range = [2 70] / 3.6;         % 2 to 70 km/h
+P.speed_range = [20 220] / 3.6;         % 2 to 70 km/h
 
 check_units(P);
 end

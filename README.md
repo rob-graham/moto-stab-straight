@@ -1,1 +1,1 @@
-moto-stab-straight
+% moto-stab-straight
